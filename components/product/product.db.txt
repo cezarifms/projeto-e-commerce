@@ -1,0 +1,62 @@
+[
+{
+"images": [
+{
+"public_id": "id1",
+"url": "/img/iphone64gb.png"
+},
+{
+"public_id": "id2",
+"url": "/img/iphone64gb2"
+}
+],
+"checked": false,
+"inStock": 500,
+"sold": 0,
+"title": "IPhone 11",
+"price": 4999,
+"description": "Iphone 11 64 Gb Vermelho",
+"content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+"category": "celular"
+},
+{
+"images": [
+{
+"public_id": "id1",
+"url": "/img/iphone64gb"
+},
+{
+"public_id": "id2",
+"url": "/img/iphone64gb2"
+}
+],
+"checked": false,
+"inStock": 500,
+"sold": 0,
+"title": "IPhone 11",
+"price": 4999,
+"description": "Iphone 11 64 Gb Vermelho",
+"content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+"category": "celular"
+},
+{
+"images": [
+{
+"public_id": "id1",
+"url": "/img/iphone64gb"
+},
+{
+"public_id": "id2",
+"url": "/img/iphone64gb2"
+}
+],
+"checked": false,
+"inStock": 500,
+"sold": 0,
+"title": "IPhone 11",
+"price": 4999,
+"description": "Iphone 11 64 Gb Vermelho",
+"content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+"category": "celular"
+}
+]
